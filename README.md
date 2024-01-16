@@ -14,5 +14,11 @@ ____
 
 > According to "computerhistory.org", "When it debuted in 1977, the Apple II was promoted as an extraordinary computer for ordinary people. The user-friendly design and graphical display made Apple a leader in the first decade of personal computing."
 
+### This video reviews the Apple II.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avYaKrL3YiY?si=RlQFP0rahsUir9F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### The prices of the computer at the time were as follows:
-1. 
+1. Retail with 4kb -- US$1,298 (US$6,526 in 2024)
+2. Retail with the max 48 kb -- US$2,638 (US$13,264 in 2024)
+
+
