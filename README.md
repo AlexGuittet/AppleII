@@ -3,5 +3,6 @@ ____
 
 ### These are the specifications of the computer.
 
-Specs|Strength
-Processor|MOS 6502
+| Specs | Strength     |
+-----------------------|
+| Processor | MOS 6502 |
