@@ -17,6 +17,10 @@ ____
 ### This video reviews the Apple II.
 <https://youtu.be/avYaKrL3YiY?si=re_odZqqUz3Ya4AF>
 
+### Here is an image showing what the Apple II looks like.
+![NMAH-91-14186](https://github.com/AlexGuittet/AppleII/assets/156182640/0b759e40-5e25-4819-8697-8f0d25cd79e6)
+
+
 ### The prices of the computer at the time were as follows:
 1. Retail with 4kb -- US$1,298 (US$6,526 in 2024)
 2. Retail with the max 48 kb -- US$2,638 (US$13,264 in 2024)
