@@ -3,6 +3,9 @@ ____
 
 ### These are the specifications of the computer.
 
-| Specs | Strength     |
------------------------|
-| Processor | MOS 6502 |
+| Specifications | Strength        |
+|----------------|-----------------|
+|Processor       | MOS 6502        |
+|Storage         | Disk II (140 kb)|
+|RAM             | 4 kb (To 48 kb) |
+|
