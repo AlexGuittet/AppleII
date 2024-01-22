@@ -9,6 +9,8 @@ ____
 |Storage         | Disk II (140 kb)|
 |RAM             | 4 kb (To 48 kb) |    
 
+~~It is a very powerful computer.~~
+
 ###  These are the specifications of my personal computer. (2019 Macbook Pro 13 inch)
 
 | Specifications | Strength                     |
