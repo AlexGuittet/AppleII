@@ -36,7 +36,8 @@ The MacBook Pro 16" 2019 is still a great laptop in 2023, but it is not the best
 <https://youtu.be/ZWgr7qP6yhY?si=C_ZKA1MuxWDm-eq4>
 
 ### Here is an image showing what the Apple II looks like.
-[logo]:(https://ids.si.edu/ids/deliveryService?id=NMAH-91-14186&max_w=1200)
+![alt text](https://i.redd.it/value-of-apple-iie-v0-tj9e8mh36pjb1.jpg?width=2412&format=pjpg&auto=webp&s=c817e9719aad50a3f726eab95e5e225b6b2178bf)
+
 
 ### Here is an image of my personal computer. (The same one that I have, not my computer.)
 ![alt text](https://i.pcmag.com/imagery/reviews/05LXWfM1KdbGDpwYgreAMVz-15..v1569469967.jpg)
