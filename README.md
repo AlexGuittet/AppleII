@@ -36,10 +36,10 @@ The MacBook Pro 16" 2019 is still a great laptop in 2023, but it is not the best
 <https://youtu.be/ZWgr7qP6yhY?si=C_ZKA1MuxWDm-eq4>
 
 ### Here is an image showing what the Apple II looks like.
-[https://upload.wikimedia.org/wikipedia/commons/9/98/Apple_II_typical_configuration_1977.png]
+![alt text](https://upload.wikimedia.org/wikipedia/commons/9/98/Apple_II_typical_configuration_1977.png)
 
 ### Here is an image of my personal computer. (The same one that I have, not my computer.)
-[https://i.pcmag.com/imagery/reviews/05LXWfM1KdbGDpwYgreAMVz-15..v1569469967.jpg]
+![alt text](https://i.pcmag.com/imagery/reviews/05LXWfM1KdbGDpwYgreAMVz-15..v1569469967.jpg)
 
 ### The prices of the computer at the time were as follows:
 1. Retail with 4kb -- US$1,298 (US$6,526 in 2024)
